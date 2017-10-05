@@ -10,4 +10,3 @@
 # Guides
  - For installing and running stf system wide follow this guide: **stf\_dev\_mode\_setup.md**
  - For running in development mode over a docker container follow this guide: **stf\_docker_dev\_mode\_setup.md**
- - 
