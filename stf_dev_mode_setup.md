@@ -8,31 +8,31 @@
  - You can provide feedback in order to increase the utility of the script.
  - After the installation the host machine will reboot.
 
-##Install Steps
+## Install Steps
  1. **Locate the file at this repo:** src/utils/install_stf_dev.sh
  2. Copy it into your target server
  3. Enable the executable flag
  
- ```
+ ```bash
  chmod +x install_stf_dev.sh
  ```
  4. Run it with admin privileges to install the dependencies
  
- ```
+ ```bash
  sudo ./install_stf_dev.sh
  ```
 
-##Run steps
-1. **Locate the file at this repo:** src/utils/launch_stf.sh 
+## Run steps
+1. **Locate the file at this repo:** `src/utils/launch_stf.sh`
 2. Copy it into your target server
 3. Enable the executable flag
 
-```
+```bash
 chmod +x launch_stf.sh
 ```
 4. Run it
 
-```
+```bash
 ./launch_stf.sh
 ```
 
