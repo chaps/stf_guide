@@ -10,6 +10,7 @@
 
 ## Install Steps
  1. Locate the installer [file](src/utils/install_stf_dev.sh) at this repo
+
  2. Copy it into your target server
  3. Enable the executable flag
  
@@ -23,6 +24,7 @@
  ```
 
 ## Run steps
+
 1. Locate the launcher [file](src/utils/launch_stf.sh)
 2. Copy it into your target server
 3. Enable the executable flag
