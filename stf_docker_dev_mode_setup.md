@@ -11,7 +11,7 @@
 
 ### Run Steps:
 - (Assuming you have docker installed)
--  Copy the docker compose file **src/utils/stf_dev_docker_compose/docker-compose.yaml** to your server
+-  Copy the [docker compose yaml](src/utils/stf_dev_docker_compose/docker-compose.yaml) to your server
 -  Go to the directory that contains the docker-compose.yaml file you just copied.
 - set the environment variable for the current shell session so it can be used in the docker-compose file.
  - ```export PUBLICIP=insert.your.ip.here```
